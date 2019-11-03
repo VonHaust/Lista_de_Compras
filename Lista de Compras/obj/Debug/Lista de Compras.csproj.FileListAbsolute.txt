@@ -1,0 +1,7 @@
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Lista de Compras\Lista de Compras\bin\Debug\Lista de Compras.exe.config
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Lista de Compras\Lista de Compras\bin\Debug\Lista de Compras.exe
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Lista de Compras\Lista de Compras\bin\Debug\Lista de Compras.pdb
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Lista de Compras\Lista de Compras\obj\Debug\Lista de Compras.csprojAssemblyReference.cache
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Lista de Compras\Lista de Compras\obj\Debug\Lista de Compras.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Lista de Compras\Lista de Compras\obj\Debug\Lista de Compras.exe
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Lista de Compras\Lista de Compras\obj\Debug\Lista de Compras.pdb
